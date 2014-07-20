@@ -1,0 +1,253 @@
+TToDo
+v7
+r0
+t427588601.623907
+cCheck dependencies
+cProcessInfoPlistFile /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/ToDo.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib
+cCpResource build/Debug/ToDo.app/Contents/Resources/lib vendor/todo.txt-ruby/lib
+cCpResource build/Debug/ToDo.app/Contents/Resources/icon.png icon.png
+cCpResource build/Debug/ToDo.app/Contents/Resources/icon.png icon.png
+cCpResource build/Debug/ToDo.app/Contents/Resources/icon.icns icon.icns
+cCpResource build/Debug/ToDo.app/Contents/Resources/icon.ico icon.ico
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/anarcocurious/Projects/ToDoMac/ToDo/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+cTouch /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app
+
+N/Applications/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Applications/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004FCBF7170000000000000144
+t1338767127
+s324
+
+N/Applications/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Applications/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004FCBF7170000000000000144
+t1338767127
+s324
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004FD36D5F0000000000CB5E08
+t1339256159
+s13327880
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/InfoPlist.strings
+c0000000053CA862E00000000000000CA
+t1405781550
+s202
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib
+c0000000053CA862E000000000001B56C
+t1405781550
+s111980
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app
+t1405895761
+s102
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+t1405793414
+s793
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+t1405796683
+s8984
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/PkgInfo
+t1405793414
+s8
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1405793415
+s202
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/MainMenu.nib
+t1405793416
+s19257
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/icon.icns
+t1405895134
+s42876
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/icon.ico
+t1405895134
+s5402
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/icon.png
+t1405895731
+s1263
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/lib
+t1405798821
+s238
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/rb_main.rb
+t1405895761
+s3953
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList
+c0000000053CAB486000000000000006A
+t1405793414
+s106
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+t1405796683
+s5404
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.icns
+c0000000053CC41B3000000000000A77C
+t1405895091
+s42876
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.ico
+c0000000053CC40CA000000000000151A
+t1405894858
+s5402
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.png
+c0000000053CC442000000000000004EF
+t1405895712
+s1263
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/main.m
+c0000000053CA862E00000000000000F9
+t1405781550
+s249
+i<MacRuby/MacRuby.h>
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/rb_main.rb
+c0000000053CC444D0000000000000F71
+t1405895757
+s3953
+
+N/Users/anarcocurious/Projects/ToDoMac/ToDo/vendor/todo.txt-ruby/lib
+c0000000053CABCBA00000000000000EE
+t1405795514
+s238
+
+NInfo.plist
+c0000000053CA914A0000000000000362
+t1405784394
+s866
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies427588601#427588601#0(147"[WARN]Warning: Multiple build commands for output file /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/icon.png1(22@140"Warning: Multiple build commands for output file /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/icon.png427588601#18446744073709551615#0#0(1@0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/anarcocurious/Projects/ToDoMac/ToDo/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s427489482.490700
+e427489483.416389
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/anarcocurious/Projects/ToDoMac/ToDo/main.m427489482#427489483#0(0"0(0#0#49"/Users/anarcocurious/Projects/ToDoMac/ToDo/main.m4300882208#1008"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    setenv LANG en_US.US-ASCII    /Applications/Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Applications/Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo.hmap -F/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug -F/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug -I/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/include -I/Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64 -I/Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources -c /Users/anarcocurious/Projects/ToDoMac/ToDo/main.m -o /Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib
+s427486214.795530
+e427486216.453378
+r1
+xCompileXIB
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib427486214#427486216#0(0"0(0#0#69"/Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib4300882208#349"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/MainMenu.nib /Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s427486214.778306
+e427486215.488949
+r1
+xCopyStringsFile
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings427486214#427486215#0(0"0(0#0#74"/Users/anarcocurious/Projects/ToDoMac/ToDo/English.lproj/InfoPlist.strings4300882208#384"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    setenv ICONV /usr/bin/iconv    /Applications/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/ToDo.app/Contents/Resources/icon.icns icon.icns
+s427587934.815272
+e427587934.839052
+r1
+xCpResource
+xbuild/Debug/ToDo.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns427587934#427587934#0(0"0(0#0#52"/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.icns4300882208#347"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anarcocurious/Projects/ToDoMac/ToDo/icon.icns /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources0#
+
+CCpResource build/Debug/ToDo.app/Contents/Resources/icon.ico icon.ico
+s427587934.815920
+e427587934.841387
+r1
+xCpResource
+xbuild/Debug/ToDo.app/Contents/Resources/icon.ico
+xicon.ico
+lSLF07#2@13"Copy icon.ico427587934#427587934#0(0"0(0#0#51"/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.ico4300882208#346"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anarcocurious/Projects/ToDoMac/ToDo/icon.ico /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources0#
+
+CCpResource build/Debug/ToDo.app/Contents/Resources/icon.png icon.png
+s427588531.478631
+e427588531.491755
+r1
+xCpResource
+xbuild/Debug/ToDo.app/Contents/Resources/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png427588531#427588531#0(0"0(0#0#51"/Users/anarcocurious/Projects/ToDoMac/ToDo/icon.png4300882208#346"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anarcocurious/Projects/ToDoMac/ToDo/icon.png /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources0#
+
+CCpResource build/Debug/ToDo.app/Contents/Resources/lib vendor/todo.txt-ruby/lib
+s427491621.451679
+e427491621.550725
+r1
+xCpResource
+xbuild/Debug/ToDo.app/Contents/Resources/lib
+xvendor/todo.txt-ruby/lib
+lSLF07#2@29"Copy vendor/todo.txt-ruby/lib427491621#427491621#0(0"0(0#0#67"/Users/anarcocurious/Projects/ToDoMac/ToDo/vendor/todo.txt-ruby/lib4300882208#362"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anarcocurious/Projects/ToDoMac/ToDo/vendor/todo.txt-ruby/lib /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources0#
+
+CCpResource build/Debug/ToDo.app/Contents/Resources/rb_main.rb rb_main.rb
+s427588561.273933
+e427588561.296987
+r1
+xCpResource
+xbuild/Debug/ToDo.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb427588561#427588561#0(0"0(0#0#53"/Users/anarcocurious/Projects/ToDoMac/ToDo/rb_main.rb4300882208#348"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /Applications/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/anarcocurious/Projects/ToDoMac/ToDo/rb_main.rb /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Resources0#
+
+CLd /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+s427489483.416518
+e427489483.718588
+r1
+xLd
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo427489483#427489483#0(0"0(0#0#0"32932993188560964#649"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Applications/Developer/SDKs/MacOSX10.6.sdk -L/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug -F/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug -F/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug -filelist /Users/anarcocurious/Projects/ToDoMac/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework MacRuby -o /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo0#
+
+CProcessInfoPlistFile /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Info.plist Info.plist
+s427486214.682233
+e427486214.778159
+r1
+xProcessInfoPlistFile
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist427486214#427486214#0(0"0(0#0#53"/Users/anarcocurious/Projects/ToDoMac/ToDo/Info.plist28429264708632676#308"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    builtin-infoPlistUtility Info.plist -genpkginfo /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app/Contents/Info.plist0#
+
+CTouch /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app
+s427588561.297235
+e427588561.301818
+r1
+xTouch
+x/Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app
+lSLF07#2@69"Touch /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app427588561#427588561#0(0"0(0#0#0"4300882208#136"    cd /Users/anarcocurious/Projects/ToDoMac/ToDo    /usr/bin/touch -c /Users/anarcocurious/Projects/ToDoMac/ToDo/build/Debug/ToDo.app0#
+
