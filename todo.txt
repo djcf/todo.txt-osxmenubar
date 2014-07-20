@@ -1,0 +1,11 @@
+(B) Redesign app to use MVC approach +core
+(C) Prettify item display by making menu bar use custom views +gui
+(A) Improve display for add item text box +gui
+Add ability for users to choose the location of their todo.txt file +features
+Let app softlink todo.txt file to/from cloud storage (dropbox, gdrive, etc.) +features
+Let app control whether it is started with the system +features
+Add preferences pain to control whether app is loaded at system startup, location of todo.txt, softlinks, etc. +features +gui
+Register a file handler for todo.txt files +features
+Handle multiple todo.txt files simultaneously +features
+Take new todos from apple productivity suite - mail and iCal (but how?) +features
+Take new todos from gcal and other online todos +features
